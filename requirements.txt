@@ -1,0 +1,7 @@
+streamlit
+easyocr
+pandas
+pillow
+numpy
+gliner
+transformers
